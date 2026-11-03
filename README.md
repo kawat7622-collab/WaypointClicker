@@ -2,7 +2,7 @@
 
 Waypoint Clicker is a lightweight Roblox tool for **capturing positions in the world by clicking** and teleporting back to them whenever you want.
 
-Waypoint Clicker is built to be simple, fast and clean, with a modern Liquid Glass interface inspired by Apple's design language. Click anywhere in the world to save a waypoint, then copy, teleport to or delete it from the menu.
+Waypoint Clicker is built to be simple, fast and clean, with a modern Liquid Glass interface. Click anywhere in the world to save a waypoint, then copy, teleport to or delete it from the menu.
 
 ## Status
 
@@ -42,9 +42,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/kawat7622-collab/Wayp
 | 🟡 Yellow button | Minimize to a small icon |
 | 🟢 Green button | Center the menu on screen |
 | **K** | Show or hide the menu |
-
-## Credits
-
-Made by **clark.me**
 
 Join the [Support Server](https://discord.gg/xNrrEjKwrU) for help and updates.
