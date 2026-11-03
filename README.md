@@ -17,8 +17,7 @@ Waypoint Clicker is actively maintained. The current version is **v1.2.1**. Bug 
 - Live status and waypoint counter on the main page
 - Minimize the menu to a small draggable icon
 - Toggle the menu at any time with the **K** key
-- Custom in-game notifications
-- Clean Liquid Glass interface with smooth animations
+- Custom ingame notifications
 
 ## Script
 
